@@ -1,0 +1,13 @@
+C:\Users\pawel\source\repos\ConsoleApp19a\ConsoleApp19a\bin\Debug\netcoreapp3.1\ConsoleApp19a.exe
+C:\Users\pawel\source\repos\ConsoleApp19a\ConsoleApp19a\bin\Debug\netcoreapp3.1\ConsoleApp19a.deps.json
+C:\Users\pawel\source\repos\ConsoleApp19a\ConsoleApp19a\bin\Debug\netcoreapp3.1\ConsoleApp19a.runtimeconfig.json
+C:\Users\pawel\source\repos\ConsoleApp19a\ConsoleApp19a\bin\Debug\netcoreapp3.1\ConsoleApp19a.runtimeconfig.dev.json
+C:\Users\pawel\source\repos\ConsoleApp19a\ConsoleApp19a\bin\Debug\netcoreapp3.1\ConsoleApp19a.dll
+C:\Users\pawel\source\repos\ConsoleApp19a\ConsoleApp19a\bin\Debug\netcoreapp3.1\ConsoleApp19a.pdb
+C:\Users\pawel\source\repos\ConsoleApp19a\ConsoleApp19a\obj\Debug\netcoreapp3.1\ConsoleApp19a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pawel\source\repos\ConsoleApp19a\ConsoleApp19a\obj\Debug\netcoreapp3.1\ConsoleApp19a.AssemblyInfoInputs.cache
+C:\Users\pawel\source\repos\ConsoleApp19a\ConsoleApp19a\obj\Debug\netcoreapp3.1\ConsoleApp19a.AssemblyInfo.cs
+C:\Users\pawel\source\repos\ConsoleApp19a\ConsoleApp19a\obj\Debug\netcoreapp3.1\ConsoleApp19a.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\ConsoleApp19a\ConsoleApp19a\obj\Debug\netcoreapp3.1\ConsoleApp19a.dll
+C:\Users\pawel\source\repos\ConsoleApp19a\ConsoleApp19a\obj\Debug\netcoreapp3.1\ConsoleApp19a.pdb
+C:\Users\pawel\source\repos\ConsoleApp19a\ConsoleApp19a\obj\Debug\netcoreapp3.1\ConsoleApp19a.genruntimeconfig.cache
