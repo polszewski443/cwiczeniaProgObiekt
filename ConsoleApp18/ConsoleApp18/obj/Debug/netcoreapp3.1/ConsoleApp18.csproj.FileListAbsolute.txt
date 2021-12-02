@@ -1,0 +1,4 @@
+C:\Users\pawel\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pawel\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.AssemblyInfoInputs.cache
+C:\Users\pawel\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.AssemblyInfo.cs
+C:\Users\pawel\source\repos\ConsoleApp18\ConsoleApp18\obj\Debug\netcoreapp3.1\ConsoleApp18.csproj.CoreCompileInputs.cache
