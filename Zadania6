@@ -1,0 +1,47 @@
+3.
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace apkaa
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Licznik[] tab = new Licznik[3];
+            tab[0] = new Licznik(80, 532);
+            tab[1] = new Licznik(55, 436);
+            tab[2] = new Licznik(32, 253);
+
+            foreach (Licznik p in tab)
+            {
+                Console.WriteLine(p.Prezentuj());
+            }
+
+            Console.ReadKey();
+        }
+    }
+    public class Licznik
+    {
+        private int poczatkowy;
+        private int biezacy;
+
+        public Licznik(int po, int bie)
+        {
+            poczatkowy = po;
+            biezacy = bie;
+        }
+        public int roznica(int poczatkowy, int biezacy)
+        {
+            return biezacy - poczatkowy;
+        }
+        public string Prezentuj()
+        {
+            return String.Format("Poczatkowy: {0}, Biezacy {1}, Roznica: {2}", poczatkowy, biezacy, roznica(poczatkowy, biezacy));       
+        }
+    }
+}
+
